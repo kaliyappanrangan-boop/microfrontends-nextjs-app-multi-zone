@@ -4,6 +4,9 @@
   <img src="https://assets.vercel.com/image/upload/v1689795055/docs-assets/static/docs/microfrontends/mfe-banner-light.png" alt="Vercel Microfrontends">
 </picture>
 
+<img width="3780" height="1890" alt="Untitled design" src="https://github.com/user-attachments/assets/d1fbd4d9-5f36-4491-988e-7f58be1fc8d5" />
+
+
 # Vercel Microfrontends - Next.js Multi-Zones example
 
 **An official Vercel example demonstrating production-ready multi-zone microfrontend architecture**
